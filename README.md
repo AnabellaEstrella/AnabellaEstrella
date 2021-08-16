@@ -23,7 +23,6 @@
 
 ### Social Media
 [![Linkedin: AnabellaBlanco](https://img.shields.io/badge/-AnabellaBlanco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anabella-estrella-blanco/)](https://www.linkedin.com/in/anabella-estrella-blanco/)
-
 [![Behance: AnabellaBlanco](https://img.shields.io/badge/-AnabellaBlanco-1769FF?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/anabellablanco/)](https://www.behance.net/anabellablanco/)
 
 <!--
