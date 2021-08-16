@@ -1,5 +1,7 @@
-### Hi there! 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<h2> Hi there! 👋 I'm Anabella <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
+<p><em> Argentinian Software developer and QA Tester &nbsp;</em> <img src="https://c.tenor.com/BT6SV4XT52AAAAAM/me-it.gif" width="45"></p>
 
+[![Linkedin: anabellablanco](https://img.shields.io/badge/-anabellablanco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anabella-estrella-blanco/)](https://www.linkedin.com/in/anabella-estrella-blanco/)
 <!--
 **AnabellaEstrella/AnabellaEstrella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
