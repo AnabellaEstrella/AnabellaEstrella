@@ -35,5 +35,6 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000?&logo=adobexd&logoColor=FF61F6)
 
 ### ✨Social Media
-[![Linkedin: AnabellaBlanco](https://img.shields.io/badge/-AnabellaBlanco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anabella-estrella-blanco/)](https://www.linkedin.com/in/anabella-estrella-blanco/)
-[![Behance: AnabellaBlanco](https://img.shields.io/badge/-AnabellaBlanco-1769FF?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/anabellaestrella/)](https://www.behance.net/anabellaestrella/)
+[![Linkedin: AnabellaBlanco](https://img.shields.io/badge/-Anabella%20Blanco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anabella-estrella-blanco/)](https://www.linkedin.com/in/anabella-estrella-blanco/)
+[![Behance: AnabellaBlanco](https://img.shields.io/badge/-Anabella%20Blanco-1769FF?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/anabellaestrella/)](https://www.behance.net/anabellaestrella/)
+[![Steam: AnabellaBlanco](https://img.shields.io/badge/-AnabellaEstrella-000000?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/AnabellaEstrella/)](https://steamcommunity.com/id/AnabellaEstrella/)
