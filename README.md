@@ -30,6 +30,8 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode&logoColor=007ACC)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?&logo=microsoftsqlserver&logoColor=CC2927)
 ![Netbeans](https://img.shields.io/badge/-Netbeans-000?&logo=apachenetbeanside&logoColor=1B6AC6)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira&logoColor=0052CC)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman&logoColor=FF6C37)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-000?&logo=adobexd&logoColor=FF61F6)
 
 ### ✨Social Media
