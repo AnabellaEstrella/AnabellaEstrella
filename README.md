@@ -1,5 +1,5 @@
 <h2> Hi there! 👋 I'm Anabella <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
-<p><em> Software fullstack developer and QA Tester from Argentina </em><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/AR-Argentina-Flag-icon.png" width=20></p>
+<p><em> Software fullstack developer and QA Tester from Buenos Aires </em><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/AR-Argentina-Flag-icon.png" width=20></p>
 
 <img src="https://c.tenor.com/BT6SV4XT52AAAAAM/me-it.gif" width="100">
 
