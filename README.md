@@ -4,7 +4,7 @@
 <img src="https://c.tenor.com/BT6SV4XT52AAAAAM/me-it.gif" width="100">
 
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About me...
-- 🚀 I'm a Computer Technician at <a href="https://www.tec1gralsanmartin.com/">Technical School "Gral. José de San Martín"</a>.
+- 🚀 I'm a Computer Technician.
 - 🌱 I’m currently working as a QA Tester and programming on my own.
 - ⚡ I'm also learning UX/UI desing and I love it! ❤
 
