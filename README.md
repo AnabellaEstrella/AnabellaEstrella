@@ -5,7 +5,7 @@
 
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Sobre mí
 - 🚀 Soy Técnica en Informática.
-- 🌱 Actualmente estoy trabajando como QA Tester y programando por mi cuenta.
+- 🌱 Actualmente trabajo como QA Tester y programo por mi cuenta.
 - ⚡ También estoy aprendiendo Diseño UX/UI ❤
 
 ### ✨Lenguajes
